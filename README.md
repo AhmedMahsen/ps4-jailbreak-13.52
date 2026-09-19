@@ -6,3 +6,5 @@ Jailbreak 13.52 free
 thanks you all 
 
 the link https://ahmedmahsen.github.io/ps4-jailbreak-13.52/
+
+thanks to raw games and all devs
