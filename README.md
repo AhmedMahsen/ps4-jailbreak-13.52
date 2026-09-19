@@ -5,6 +5,9 @@ Jailbreak 13.52 free
 13.02
 thanks you all 
 
+Primary DNS: 62.210.38.117
+Secondary DNS: 0.0.0.0
+
 the link https://ahmedmahsen.github.io/ps4-jailbreak-13.52/
 another limk ( main one ( https://raw13g.github.io/ )
 thanks to raw games and all devs
